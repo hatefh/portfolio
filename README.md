@@ -1,6 +1,6 @@
 # Building Energy & Data Science Portfolio
 
-👋 Hi! I'm a data-driven energy systems expert with hands-on experience applying machine learning to real-world building performance and energy consumption data. My work focuses on solving complex problems in energy forecasting, thermal behavior modeling, and system-level diagnostics — with direct applications in smart buildings, HVAC optimization, and district heating networks.
+👋 Hi! I'm a building energy systems expert with hands-on experience applying machine learning to real-world building performance and energy consumption data. My work focuses on solving complex problems in energy forecasting, thermal behavior modeling, and system-level diagnostics — with direct applications in smart buildings, HVAC optimization, and district heating networks.
 
 This portfolio highlights selected projects where I’ve combined domain expertise in buildings and HVAC systems with modern data science techniques using Python, Scikit-learn, XGBoost, and time-series analysis.
 
@@ -42,8 +42,8 @@ This portfolio highlights selected projects where I’ve combined domain experti
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/YOURNAME)
-- ✉️ hatefh [at] email [dot] com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/hatefhajian/)]
+- ✉️ hatef[dot]hajian [at] gmail [dot] com
 - 📍 Helsinki, Finland | Open to remote/hybrid roles in energy tech & data science
 
 ---
